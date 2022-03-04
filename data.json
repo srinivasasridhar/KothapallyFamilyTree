@@ -1,0 +1,84 @@
+
+    [
+        { "id": 2, "pids": [1], "gender": "male", "title":"Mangalampally", "name": "Chandrasekar", "photo":"/images/chandrasekar.jpg"  },
+        { "id": 1, "pids": [2], "gender": "female", "title":"Mangalampally", "name": "Rama Lakshmi (Yamini)" , "photo":"/images/ramalakshmi.jpg"},
+
+        {"id": 3,"pids": [4],"mid": 2,"fid": 1,"gender": "female", "title":"Kothapally","name": "Kanaka Durga", "photo":"/images/durga.jpg" },
+        {"id": 4,"pids": [3],"gender": "male","title":"Kothapally","name": "Gopla Krishna Murhty", "photo":"/images/gopala.jpg" },
+        
+        
+        {"id": 5,"pids": [6],"mid": 3,"fid": 4,"gender": "female","title":"Choppakatla","name": "Sathya Lakshmi","photo":"/images/sathya.jpg"},
+        {"id": 6, "pids": [5], "gender": "male", "title":"Choppakatla", "name": "Srirama Murhty","photo":"/images/srmurthy.jpg" },
+        
+        {"id": 7,"pids": [8],"mid": 5,"fid": 6,"gender": "male","title":"Choppakatla", "name": "Srinivas Sridhar", "photo":"/images/shri.jpg" },
+        {"id": 8, "pids": [7], "gender": "female","title":"Choppakatla", "name": "Harini", "photo":"/images/honey.jpg"  },
+        {"id": 9, "mid":8, "fid":7, "gender": "male", "title":"Choppakatla", "name": "Karthik Ram", "photo":"/images/karthik.jpg" },
+        {"id": 10, "mid":8, "fid":7, "gender": "female", "title":"Choppakatla", "name": "Durga Sharvani" ,"photo":"/images/cherry.jpg"},
+        
+        {"id": 11,"pids": [12],"mid": 5,"fid": 6,"gender": "female","title":"Rotte", "name": "Sirisha", "photo":"/images/sirisharma.jpg"},
+        {"id": 12,"pids": [11],"gender": "male","title":"Rotte","name": "Nagaraja Sharms", "photo":"/images/nagraj.jpg" },
+        { "id": 13, "mid":11, "fid":12, "gender": "female","title":"Rotte", "name": "Lalitha" ,"photo":"/images/lalli.jpg"},
+        
+        {"id": 14,"pids": [15],"mid": 3,"fid": 4,"gender": "female","title":"Mudiganty", "name": "Annapurna", "photo":"/images/appu.jpg"  },
+        {"id": 15,"pids": [14],"gender": "male","title":"Mudiganty", "name": "Hanumandlu", "photo":"/images/hanumandlu.jpg"  },
+
+        {"id": 16,"pids":[17], "mid":14, "fid":15, "gender": "female","title":"Tanuku", "name": "Sudha Madhuri", "photo":"/images/munni.jpg" },
+        {"id": 17, "pids":[16], "gender": "male", "title":"Tanuku", "name": "Sudarshan", "photo":"/images/sudarshan.jpg"},
+        {"id": 18, "mid":16, "fid":17, "gender": "female", "title":"Tanuku", "name": "Shruthi", "photo":"/images/sahiti.jpg"},
+        {"id": 19, "mid":16, "fid":17, "gender": "female", "title":"Tanuku", "name": "Sahiti", "photo":"/images/shruthi.jpg"},
+
+        {"id": 20,"pids": [21],"mid": 3,"fid": 4,"gender": "female","title":"Bhogaraju","name": "Rama Lakshmi", "photo":"/images/ramu.jpg"  },
+        {"id": 21,"pids": [20],"gender": "male","title":"Bhogaraju","name": "Venkata Ramana", "photo":"/images/venkataramana.jpg"},
+        
+        {"id": 22,"pids": [23],"mid": 20,"fid": 21,"gender": "female", "title":"Nimmagadda", "name": "Parvati", "photo":"/images/paru.jpg" },
+        {"id": 23,"pids": [22],"gender": "male","title":"Nimmagadda", "name": "Karthik", "photo":"/images/karthiknimma.jpg" },
+        {"id": 24,"mid": 22,"fid": 23, "gender": "male","title":"Nimmagadda", "name": "Advaith" , "photo":"/images/advit.jpg" },
+        
+        {"id": 25,"pids": [26],"mid": 20,"fid": 21,"gender": "female","title":"Dhannayak","name": "Poornima", "photo":"/images/poori.jpg"  },
+        {"id": 26,"pids": [25],"gender": "male","title":"Dhannayak","name": "AbhiJeet", "photo":"/images/abhijeet.jpg"} ,
+        {"id": 27,"mid": 25,"fid": 26,"gender": "male","title":"PET","name": "Rhino", "photo":"images/rhino.jpg" },
+        {"id": 28,"mid": 25,"fid": 26,"gender": "male","title":"Dhannayak","name": "Ishan Aman" , "photo":"/images/aman.jpg" },
+
+        {"id": 29,"pids": [30],"mid": 3,"fid": 4,"gender": "female","title":"Kalvagunta","name": "Bhanumati","photo":"/images/bhanu.jpg" },
+        {"id": 30,"pids": [29],"gender": "male","title":"Kalvagunta","name": "Surya Prakash","photo":"/images/suryaprakash.jpg" },
+
+        {"id": 31,"pids": [32],"mid": 29,"fid": 30,"gender": "male","title":"Kalvagunta","name": "Prashant","photo":"/images/prashant.jpg" },
+        {"id": 32,"pids": [31],"gender": "female","title":"Kalvagunta","name": "Vinni","photo":"/images/vinni.jpg" },
+
+        {"id": 33,"pids": [34],"mid": 3,"fid": 4,"gender": "male","title":"Kothapally", "name": "Ravi Kumar","photo":"/images/ravi.jpg" },
+        {"id": 34,"pids": [33],"gender": "female","title":"Kothapally", "name": "Gayathri","photo":"/images/gayathri.jpg" },
+        
+        {"id": 35,"pids":[36],"mid": 34,"fid": 33,"gender": "male","title":"Kothapally", "name": "Chandu","photo":"/images/chandu.jpg"  },
+        {"id": 36,"pids":[35],"gender": "female","title":"Kothapally", "name": "Samhita","photo":"/images/samhita.jpg"  },
+
+        {"id": 37,"pids": [38],"mid": 3,"fid": 4,"gender": "female","title":"Chanduri", "name": "Madhavi Lata","photo":"/images/madhavi.jpg" },
+        {"id": 38,"pids": [37],"gender": "male","title":"Chanduri", "name": "Srinivas","photo":"/images/srinivas.jpg" },
+        
+        {"id": 39,"pids":[40],"mid": 37,"fid": 38,"gender": "female","name": "Anusha","photo":"/images/anusha.jpg" },
+        {"id": 40,"pids":[39],"gender": "male","name": "Mounik" ,"photo":"/images/mounik.jpg" },
+
+
+        {"id": 41,"pids": [42],"mid": 29,"fid": 30,"gender": "female","name": "Niharika","photo":"/images/leena.jpg" },
+        {"id": 42,"pids": [41],"gender": "male","name": "Raghu Ram","photo":"/images/raghuram.jpg" },
+        {"id": 43,"mid":41,"fid":42,"gender": "male","name": "Shivani (Sonu)","photo":"/images/sonu.jpg" },
+
+        { "id": 44, "mid":11, "fid":12, "gender": "male","title":"PET", "name": "Frostie" ,"photo":"/images/frostie.jpg"},
+        {"id": 45,"mid": 25,"fid": 26,"gender": "male","title":"PET","name": "Ranger", "photo":"images/ranger.jpg" },
+        
+        {"id": 46,"mid": 16,"fid": 17,"gender": "male","title":"PET","name": "Skipper", "photo":"images/skipper.jpg" },
+
+        {"id": 51,"pids": [52],"mid": 2,"fid": 1,"gender": "female","title":"Kothapally", "name": "Ananta Lakshmi", "photo":"/images/anantha.jpg" },
+        {"id": 52,"pids": [51],"gender": "male","title":"Kothapally","name": "Anil Kumar", "photo":"/images/anil.jpg" },
+        
+        {"id": 53,"pids": [54],"mid": 51,"fid": 52,"gender": "male","title":"Kothapally", "name": "Ajaybabu", "photo":"/images/ajay.jpg" },
+        {"id": 54,"pids": [53],"gender": "female","title":"Kothapally","name": "Sasikala", "photo":"/images/sasi.jpg" },
+
+        {"id": 55,"pids": [56],"mid": 53,"fid": 54,"gender": "female","title":"Bommireaddypalli", "name": "Swetha", "photo":"/images/swetha.jpg" },
+        {"id": 56,"pids": [55],"gender": "male","title":"Bommireaddypalli", "name": "Sanjay", "photo":"/images/sanjay.jpg" },
+        {"id": 57,"mid":55,"fid": 56,"gender": "male","title":"Bommireaddypalli", "name": "Abhi", "photo":"/images/abhi.jpg" },
+        {"id": 58,"mid":55,"fid": 56,"gender": "female","title":"Bommireaddypalli", "name": "Aradhya", "photo":"/images/aradhya.jpg" },
+
+        {"id": 59,"pids": [60],"mid": 53,"fid": 54,"gender": "male","title":"Kothapally", "name": "Sundeep", "photo":"/images/sunny.jpg" },
+        {"id": 60,"pids": [59],"gender": "female","title":"Kothapally", "name": "Nikki", "photo":"/images/nikki.jpg" }
+        
+      ]
