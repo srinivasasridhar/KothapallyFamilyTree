@@ -1,5 +1,3 @@
-//JavaScript
-  /// <reference path="FamilyTree.d.ts" />
 
 $(document).ready(function(){
 
@@ -47,7 +45,7 @@ family.on('field', function (sender, args) {
     }
 });
 
-$.getJSON("data.json", function(data){
+$.getJSON("chdata.json", function(data){
     family.load(data);
 }).fail(function(){
     console.log("An error has occurred.");

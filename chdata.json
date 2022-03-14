@@ -1,0 +1,88 @@
+
+    [
+      { "id": 1, "pids":[2], "gender": "male", "title":"Mangalampally", "name": "Chandrasekar", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/chandrasekar.jpg","loc": "Paralok"  },
+      { "id": 2, "pids":[1], "gender": "female", "title":"Mangalampally", "name": "Rama Lakshmi (Yamini)" , "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/ramalakshmi.jpg","loc": "Paralok"},
+
+      {"id": 3,"pids":[4],"mid": 2,"fid": 1,"gender": "female", "title":"Kothapally","name": "Kanaka Durga", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/durga.jpg","loc": "Hyderabad, IND" },
+      {"id": 4,"pids":[3],"gender": "male","title":"Kothapally","name": "Gopla Krishna Murhty", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/gopala.jpg","loc": "Hyderabad, IND"},
+      
+      
+      {"id": 5,"pids":[6],"mid": 3,"fid": 4,"gender": "female","title":"Choppakatla","name": "Sathya Lakshmi","photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/sathya.jpg","loc": "Hyderabad, IND"},
+      {"id": 6, "pids":[5], "gender": "male", "title":"Choppakatla", "name": "Srirama Murhty","photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/srmurthy.jpg","loc": "Hyderabad, IND" },
+      
+      {"id": 7,"pids":[8],"mid": 5,"fid": 6,"gender": "male","title":"Choppakatla", "name": "Sridhar", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/shri.jpg","loc": "Hyderabad, IND" },
+      {"id": 8, "pids":[7], "gender": "female","title":"Choppakatla", "name": "Harini", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/honey.jpg","loc": "Hyderabad, IND"  },
+      {"id": 9, "mid":8, "fid":7, "gender": "male", "title":"Choppakatla", "name": "Karthik Ram", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/karthik.jpg","loc": "Hyderabad, IND" },
+      {"id": 10, "mid":8, "fid":7, "gender": "female", "title":"Choppakatla", "name": "Durga Sharvani" ,"photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/cherry.jpg","loc": "Hyderabad, IND"},
+      
+      {"id": 11,"pids":[12],"mid": 5,"fid": 6,"gender": "female","title":"Rotte", "name": "Sirisha", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/sirisharma.jpg","loc": "Hyderabad, IND"},
+      {"id": 12,"pids":[11],"gender": "male","title":"Rotte","name": "Nagaraja Sharma", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/nagraj.jpg","loc": "Hyderabad, IND" },
+      { "id": 13, "mid":11, "fid":12, "gender": "female","title":"Rotte", "name": "Lalitha" ,"photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/lalli.jpg","loc": "Hyderabad, IND"},
+      
+      {"id": 14,"pids":[15],"mid": 3,"fid": 4,"gender": "female","title":"Mudiganty", "name": "Annapurna", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/appu.jpg","loc": "Hyderabad, IND"  },
+      {"id": 15,"pids":[14],"gender": "male","title":"Mudiganty", "name": "Hanumandlu", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/hanumandlu.jpg","loc": "Hyderabad, IND"  },
+
+      {"id": 16,"pids":[17], "mid":14, "fid":15, "gender": "female","title":"Tanuku", "name": "Sudha Madhuri", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/munni.jpg","loc": "Hyderabad, IND" },
+      {"id": 17, "pids":[16], "gender": "male", "title":"Tanuku", "name": "Sudarshan", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/sudarshan.jpg","loc": "Hyderabad, IND"},
+      {"id": 18, "mid":16, "fid":17, "gender": "female", "title":"Tanuku", "name": "Shruthi", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/sahiti.jpg","loc": "Hyderabad, IND"},
+      {"id": 19, "mid":16, "fid":17, "gender": "female", "title":"Tanuku", "name": "Sahiti", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/shruthi.jpg","loc": "Hyderabad, IND"},
+
+      {"id": 20,"pids":[21],"mid": 3,"fid": 4,"gender": "female","title":"Bhogaraju","name": "Rama Lakshmi", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/ramu.jpg","loc": "Hyderabad, IND"  },
+      {"id": 21,"pids":[20],"gender": "male","title":"Bhogaraju","name": "Venkata Ramana", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/venkataramana.jpg","loc": "Hyderabad, IND"},
+      
+      {"id": 22,"pids":[23],"mid": 20,"fid": 21,"gender": "female", "title":"Nimmagadda", "name": "Parvati", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/paru.jpg","loc": "Hyderabad, IND" },
+      {"id": 23,"pids":[22],"gender": "male","title":"Nimmagadda", "name": "Karthik", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/karthiknimma.jpg","loc": "Hyderabad, IND" },
+      {"id": 24,"mid": 22,"fid": 23, "gender": "male","title":"Nimmagadda", "name": "Advaith" , "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/advit.jpg","loc": "Hyderabad, IND" },
+      
+      {"id": 25,"pids":[26],"mid": 20,"fid": 21,"gender": "female","title":"Dhannayak","name": "Poornima", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/poori.jpg","loc": "Hyderabad, IND"  },
+      {"id": 26,"pids":[25],"gender": "male","title":"Dhannayak","name": "AbhiJeet", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/abhijeet.jpg","loc": "Hyderabad, IND"} ,
+      {"id": 27,"mid": 25,"fid": 26,"gender": "male","title":"PET","name": "Rhino", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/rhino.jpg","loc": "Hyderabad, IND" },
+      {"id": 28,"mid": 25,"fid": 26,"gender": "male","title":"Dhannayak","name": "Ishan Aman" , "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/aman.jpg","loc": "Hyderabad, IND" },
+
+      {"id": 29,"pids": [30],"mid": 3,"fid": 4,"gender": "female","title":"Kalvagunta","name": "Bhanumati","photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/bhanu.jpg","loc": "Hyderabad, IND" },
+      {"id": 30,"pids": [29],"gender": "male","title":"Kalvagunta","name": "Surya Prakash","photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/suryaprakash.jpg","loc": "Hyderabad, IND" },
+
+      {"id": 31,"pids": [32],"mid": 29,"fid": 30,"gender": "male","title":"Kalvagunta","name": "Prashant","photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/prashant.jpg","loc": "Hyderabad, IND" },
+      {"id": 32,"pids": [31],"gender": "female","title":"Kalvagunta","name": "Vinni","photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/vinni.jpg","loc": "Hyderabad, IND" },
+
+      {"id": 33,"pids": [34],"mid": 3,"fid": 4,"gender": "male","title":"Kothapally", "name": "Ravi Kumar","photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/ravi.jpg","loc": "Hyderabad, IND" },
+      {"id": 34,"pids": [33],"gender": "female","title":"Kothapally", "name": "Gayathri","photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/gayathri.jpg","loc": "Hyderabad, IND" },
+      
+      {"id": 35,"pids":[36],"mid": 34,"fid": 33,"gender": "male","title":"Kothapally", "name": "Chandu","photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/chandu.jpg","loc": "Hyderabad, IND"  },
+      {"id": 36,"pids":[35],"gender": "female","title":"Kothapally", "name": "Samhita","photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/samhita.jpg","loc": "Hyderabad, IND"  },
+
+      {"id": 37,"pids": [38],"mid": 3,"fid": 4,"gender": "female","title":"Chanduri", "name": "Madhavi","photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/madhavi.jpg","loc": "Hyderabad, IND" },
+      {"id": 38,"pids": [37],"gender": "male","title":"Chanduri", "name": "Srinivas","photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/srinivas.jpg","loc": "Hyderabad, IND" },
+      
+      {"id": 39,"pids":[40],"mid": 37,"fid": 38,"gender": "female","title":"Chintapanti","name": "Anusha","photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/anusha.jpg","loc": "Hyderabad, IND" },
+      {"id": 40,"pids":[39],"gender": "male","title":"Chintapanti","name": "Mounik" ,"photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/mounik.jpg","loc": "Hyderabad, IND" },
+
+
+      {"id": 41,"pids":[42],"mid": 29,"fid": 30,"gender": "female","title":"Veena","name": "Niharika","photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/leena.jpg","loc": "Hyderabad, IND" },
+      {"id": 42,"pids":[41],"gender": "male","title":"Veena","name": "Raghu Ram","photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/raghuram.jpg","loc": "Hyderabad, IND" },
+      {"id": 43,"mid":41,"fid":42,"gender": "male","title":"Veena","name": "Shivani","photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/sonu.jpg","loc": "Hyderabad, IND" },
+
+      {"id": 44, "mid":11, "fid":12, "gender": "male","title":"PET", "name": "Frostie" ,"photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/frostie.jpg","loc": "Hyderabad, IND"},
+      {"id": 45,"mid": 25,"fid": 26,"gender": "male","title":"PET","name": "Ranger", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/ranger.jpg","loc": "Hyderabad, IND" },
+      
+      {"id": 46,"mid": 16,"fid": 17,"gender": "male","title":"PET","name": "Skipper", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/skipper.jpg","loc": "Hyderabad, IND" },
+      
+      
+      {"id": 51,"pids":[52],"mid": 2,"fid": 1,"gender": "female","title":"Kothapally", "name": "Ananta Lakshmi", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/anantha.jpg","loc": "Hyderabad, IND" },
+      {"id": 52,"pids":[51],"gender": "male","title":"Kothapally","name": "Anil Kumar", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/anil.jpg","loc": "Hyderabad, IND" },
+      
+      {"id": 53,"pids":[54],"mid": 51,"fid": 52,"gender": "male","title":"Kothapally", "name": "Ajaybabu", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/ajay.jpg","loc": "Hyderabad, IND" },
+      {"id": 54,"pids":[53],"gender": "female","title":"Kothapally","name": "Sasikala", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/sasi.jpg","loc": "Hyderabad, IND" },
+
+      {"id": 55,"pids":[56],"mid": 53,"fid": 54,"gender": "female","title":"Bommireaddypalli", "name": "Swetha", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/swetha.jpg","loc": "Hyderabad, IND" },
+      {"id": 56,"pids":[55],"gender": "male","title":"Bommireaddypalli", "name": "Sanjay", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/sanjay.jpg","loc": "Hyderabad, IND" },
+      {"id": 57,"mid":55,"fid": 56,"gender": "male","title":"Bommireaddypalli", "name": "Abhi", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/abhi.jpg","loc": "Hyderabad, IND" },
+      {"id": 58,"mid":55,"fid": 56,"gender": "female","title":"Bommireaddypalli", "name": "Aradhya", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/aradhya.jpg","loc": "Hyderabad, IND" },
+
+      {"id": 59,"pids":[60],"mid": 53,"fid": 54,"gender": "male","title":"Kothapally", "name": "Sundeep", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/sunny.jpg","loc": "Hyderabad, IND" },
+      {"id": 60,"pids":[59],"gender": "female","title":"Kothapally", "name": "Nikki", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/nikki.jpg","loc": "Hyderabad, IND" },
+      
+      {"id": 61,"mid": 51,"fid": 52,"gender": "male","title":"Kothapally", "name": "Ramesh", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/ramesh.jpg" },
+      {"id": 62,"mid": 51,"fid": 52,"gender": "female","title":"Kothapally","name": "Anupama", "photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/anupama.jpg" }
+
+  ]
