@@ -44,6 +44,7 @@
 
         {"id": 31,"pids": 32,"mid": 29,"fid": 30,"gender": "male","title":"Kalvagunta","name": "Prashant","photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/prashant.jpg","loc": "Hyderabad, IND" },
         {"id": 32,"pids": 31,"gender": "female","title":"Kalvagunta","name": "Vinni","photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/vinni.jpg","loc": "Hyderabad, IND" },
+        {"id": 63,"mid":32, "fid":31, "gender": "female","title":"Kalvagunta","name": "Shreya","photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/shreya.jpg","loc": "Hyderabad, IND" },
 
         {"id": 33,"pids": 34,"mid": 3,"fid": 4,"gender": "male","title":"Kothapally", "name": "Ravi Kumar","photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/ravi.jpg","loc": "Hyderabad, IND" },
         {"id": 34,"pids": 33,"gender": "female","title":"Kothapally", "name": "Gayathri","photo":"https://srinivasasridhar.github.io/KothapallyFamilyTree/images/gayathri.jpg","loc": "Hyderabad, IND" },
